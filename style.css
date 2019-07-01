@@ -1,0 +1,15 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+
+body{
+    margin: 0;
+    font-family: 'Lobster', cursive;
+}
+nav{
+    background: black;
+    height: 50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 16pt;
+}
